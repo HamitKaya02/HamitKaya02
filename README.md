@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HamitKaya02
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning pyhton
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me in my e-mail adress hamit.kaya.23.02@gmail.com
